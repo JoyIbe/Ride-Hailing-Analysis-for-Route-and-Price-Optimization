@@ -6,11 +6,11 @@
 
 - [Overview](#overview)
 - [Problem Statement](#problem-statement)
-- [Tool and Methodology](#tools-and-methodology)
+- [Tools and Methodology](#tools-and-methodology)
 - [Dashboard](#dashboard)
 - [Key Business Questions and Insights](#key-business-questions-and-insights)
 - [Recommendations](#recommendations)
-- [Limitation](limitation)
+- [Limitation](#limitation)
 - [Conclusion ](#conclusion)
 
 ## Overview
@@ -20,15 +20,15 @@ The analytical focus spanned four strategic areas: route efficiency, price fairn
 ## Problem Statement
 The client lacked visibility into how key operational and customer behavior metrics were impacting growth. In particular, there was uncertainty around:
 
--- Whether the current pricing model was perceived as fair.
+- Whether the current pricing model was perceived as fair.
 
--- What times and days had peak or low demand.
+- What times and days had peak or low demand.
 
--- How customer incentives, like discounts, were affecting loyalty.
+- How customer incentives, like discounts, were affecting loyalty.
 
--- Which cities, routes, or customer segments were underperforming.
+- Which cities, routes, or customer segments were underperforming.
 
--- The relationship between repeat business and revenue contribution.
+- The relationship between repeat business and revenue contribution.
 
 Due to a lack of accessible first-party data, assumptions and simulated datasets were created based on scraped public reviews, ride prices, and industry benchmarks.
 
@@ -64,7 +64,7 @@ Data Visualization: Built a two page interactive dashboards that answers stakeho
 <img width="563" height="317" alt="JO Analytics" src="https://github.com/user-attachments/assets/1f9ee592-0ec3-4b9c-945b-1f384e5ada9b" />
 
 
-## Key Business Questions & Insights
+## Key Business Questions and Insights
 1. Are Longer Rides Always Pricier?
 Not necessarily. The data revealed inconsistencies between ride distance and total fare, prompting a reevaluation of the pricing structure to ensure fairness.
 
@@ -129,12 +129,12 @@ This project provided actionable insights across operations, customer behavior, 
 
 Impact Summary:
 
--- Informed route and schedule optimization
+- Informed route and schedule optimization
 
--- Refined discount and retention strategy
+- Refined discount and retention strategy
 
--- Guided location-specific business planning
+- Guided location-specific business planning
 
--- Revealed key demand and behavior trends
+- Revealed key demand and behavior trends
 
 **Unlocked insights that led to a 15% increase in rider engagement and revenue performance across targeted cities**
