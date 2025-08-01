@@ -60,7 +60,7 @@ Data Visualization: Built a two page interactive dashboards that answers stakeho
 
 <img width="565" height="317" alt="JO Overview" src="https://github.com/user-attachments/assets/0d4cbdc5-9126-450e-baf8-9ca36cb7d0fb" />
 
-## Comparison Page
+## Analytics Page
 <img width="563" height="317" alt="JO Analytics" src="https://github.com/user-attachments/assets/1f9ee592-0ec3-4b9c-945b-1f384e5ada9b" />
 
 
